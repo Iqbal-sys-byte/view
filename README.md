@@ -1,0 +1,6 @@
+"editor.quickSuggestions": {"other": "off", "comments": "off", "strings": "off"},
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.inlineSuggest.enabled": false,
+    "html.suggest.html5": false,
+    "php.suggest.basic": false,
